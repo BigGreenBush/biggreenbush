@@ -7,6 +7,6 @@
 > - Again nothing
 > - Nothing lol
 
-**Created geometry dash megahack 8.1.0 Russian translation! Check it *[Here](https://github.com/absolllute/Mega-Hack-Translate/pull/39)*.**
+**Created geometry dash megahack 8.1.0 Russian translation! Check it *[Here](https://github.com/absolllute/Mega-Hack-Translate/pull/54)*.**
 
 *My geometry dash profile: HanderpayGMD*
